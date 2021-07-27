@@ -27,7 +27,7 @@ public class Main {
 	        	maxProfit = 0;
 	        }
 	        System.out.print(maxProfit + "\n");
-	        System.out.print(345);
+	       
 	      }
 		scan.close();
 	}
