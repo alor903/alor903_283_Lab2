@@ -46,7 +46,7 @@ public class TestStatsMean {
 	@Test
     public void testTwoElements1() {
         Stats stats = new Stats(new int[]{4, 2});
-        assertEquals(4, stats.getMean());
+        assertEquals(3, stats.getMean());
     }
     
     /**
